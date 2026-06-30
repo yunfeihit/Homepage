@@ -1,0 +1,1 @@
+(div.card>(iframe.snapshot+div.card-intro>((div.card-title-wrapper>(h3.card-title+div.card-links>((a[href=""]>(img[src="./imgs/github-logo.svg" alt="github-link"].logo))+(a[href=""](img[src="./imgs/open-in-new.svg" alt="external-link"].logo)))))+p.card-infor)))*8
