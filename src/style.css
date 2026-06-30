@@ -25,6 +25,7 @@ header {
     flex-shrink: 0;
     position: relative;
     align-items: center;
+    padding-top: 18px;
 }
 
 #name {
